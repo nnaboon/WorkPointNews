@@ -9,12 +9,6 @@ module.exports = {
       'md': {'max': '860px'},
       'md-semi': {'max': '768px'},
       'sm': {'max': '600px'},
-      // '2xl': '2000px',
-      // 'xl': '1279px',
-      // 'lg': '1100px',
-      // 'md': '860px',
-      // 'md-semi': '768px',
-      // 'sm': '660px',
     },
     extend: {
       fontSize: {
@@ -56,6 +50,9 @@ module.exports = {
       Height: {
         '400': '400px',
         '800': '800px',
+      },
+      Width: {
+        '250': '250px'
       }
     },      
     fontFamily: {

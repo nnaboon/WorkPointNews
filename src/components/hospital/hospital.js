@@ -14,7 +14,7 @@ export default function Hospital(){
             </div>
             <div className="w-full justify-between flex mb-2 mt-5 sm:block">
                 <div className="block sm:pr-0">
-                    <span className=" h-9 w-96 py-1 px-3 pr-0 bg-white inline-flex mb-2">
+                    <span className=" h-9 w-96 py-1 px-3 pr-0 bg-white inline-flex mb-2 lg:w-64 sm:w-96">
                         <input className="w-full text-lg border-gray-200 border-solid transition-all duration-300 box-border m-0 rounded-md leading-7 bg-white" placeholder="ค้นหาชื่อโรงพยาบาล, จังหวัด, เขต" />
                         <span className="flex flex-col justify-center mr-4">SEARCH</span>
                     </span>
